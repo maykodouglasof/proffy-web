@@ -9,11 +9,11 @@ const TeacherItem: React.FC = () => {
     <article className="teacher-item">
       <header>
         <img
-          src="https://avatars3.githubusercontent.com/u/6462941?s=460&v=4"
-          alt="Raphael Barreto"
+          src="https://avatars3.githubusercontent.com/u/20783069?s=460&u=5e23cf29d7cc2f40d8a0b0f6988a548a12b5640a&v=4"
+          alt="Mayko Douglas"
         />
         <div>
-          <strong>Raphael Barreto</strong>
+          <strong>Mayko Douglas</strong>
           <span>Matemática</span>
         </div>
       </header>
